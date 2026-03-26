@@ -1,0 +1,10 @@
+#pragma once
+#include <iostream>
+#include "SingleLinkedList.h"
+#include "Dictionary.h"
+#include "LinkedList.h"
+#include "List.h"
+#include "Queue.h"
+#include "String.h"
+#include "Array.h"
+#include "Stack.h"
